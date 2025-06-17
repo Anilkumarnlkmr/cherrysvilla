@@ -61,7 +61,7 @@ const ContactUs = () => {
           {/* QR Code Block */}
           <div className="flex justify-center">
             <img
-              src="../public/instaQr.jpg"
+              src="/public/instaQr.jpg"
               alt="Instagram QR Code"
               className="rounded-xl w-60 shadow-lg border-4 border-[#7B2C22]"
             />
